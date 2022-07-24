@@ -1,0 +1,136 @@
+1.
+	id:self implemented 
+	make: Dawlance 
+	price:22999
+	created_at:02-07-2022
+	updated_at:02-07-2022
+	category:3
+	brand_name:Dawlance
+	warranty:10 years 
+	packaging_type:flyer
+	shipping_fare:999/=
+	unit:100
+-
+2.
+	id:self implemented
+	make: Audionic
+	price:5999
+	created_at:02-07-2022
+	updated_at:02-07-2022
+	category:3
+	brand_name: Audionic
+	warranty: NONE
+	packaging_type:TPU Plastic
+	shipping_fare:499/=
+	unit:66
+-
+3.
+	id:self implemented
+	make:Sunwoda
+	price:7999
+	created_at:02-07-2022
+	updated_at:02-07-2022
+	category:3
+	brand_name: Apple
+	warranty: 1 year
+	packaging_type:Plastic Wrapping Special
+	shipping_fare:299
+	unit:65
+-
+4.
+	id:self implemented 
+	make:Siliconiy
+	price:29999
+	created_at:02-07-2022
+	updated_at:02-07-2022
+	category:2
+	brand_name:Gucci
+	warranty:7 days
+	packaging_type:flyer
+	shipping_fare:99
+	unit:4
+-
+5.
+	
+	id:self implemented
+	make:Ideas
+	price:6999
+	created_at:02-07-2022
+	updated_at:02-07-2022
+	category:2
+	brand_name:Gul Ahmed
+	warranty: 7 days
+	packaging_type:flyer
+	shipping_fare:199
+	unit:99
+-
+6.
+	id:self implemented 
+	make:Al Karam
+	price:2999
+	created_at:02-07-2022
+	updated_at:02-07-2022
+	category:2
+	brand_name:Al Karam
+	warranty:7 days 
+	packaging_type:flyer
+	shipping_fare:199
+	unit:45
+-
+7.
+	id:self implemented
+	make:Sabroso
+	price:1299
+	created_at:15-06-2022
+	updated:07-02-2022
+	category:1
+	brand_name:Sabroso
+	warranty:30 days
+	packaging_type:plastic
+	shipphing_fare:99
+	unit:1199
+8.
+	id:self implemented
+	make:KNS
+	price:699
+	created_at:09-06-2022
+	updated_:02-07-2022
+	category:1
+	brand_name:30 days
+	packaging_type:flyer
+	shipping_fare:99
+	unit:699
+9.
+	id:self implemented
+	make:Mehran
+	price:299
+	created_at:02-07-2022
+	updated_at:02-07-2022
+	category:1
+	brand_name:30 days
+	packaging_type:TPU
+	shipping_fare:99
+	unit:99
+10.
+	id:self implemented
+	make:Adidas
+	price:23999
+	created_at:02-07-2022
+	updated_at:02-07-2022
+	category:2
+	brand_name: Adidas
+	packaging_type:Flyer
+	shipping_fare:499
+	unit:19
+11.
+	id:self implemented 
+	make:Ronin
+	price:4999
+	created_at:05-05-2022
+	updated_at:02-07-2022
+	category:3
+	brand_name:Ronin
+	packaging_type:Flyer
+	shipping_fare:499
+	unit:29
+	

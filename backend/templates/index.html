@@ -1,0 +1,24 @@
+{% extends 'base.html' %} {% block head %} {% endblock %} {% block header %} {%
+include "header.html" %} {% endblock %} {% block body %}
+
+<div id="root"></div>
+
+{% endblock %} {%block scripts %}
+<script>
+  const getProducts = async () => {
+    const response = await fetch("/product/get-product");
+    const data = await response.json();
+    return data;
+  };
+  const showProducts = () => {};
+  const productHTML = (product) =>
+    `<div>${JSON.stringify(product)}</div>`;
+  window.addEventListener("load", async function () {
+    const data = await getProducts();
+    const productList = document.createElement("div");
+    const html = data.reduce((acc, item) => acc + productHTML(item), "");
+    productList.innerHTML = html;
+    document.querySelector("#root").appendChild(productList);
+  });
+</script>
+{%endblock%}
